@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout/notification_template_big_media_narrow.xml",
+        "source": "sk.fourq.otaupdate.ota_update-media-1.0.0-4:/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout/notification_media_action.xml",
+        "source": "sk.fourq.otaupdate.ota_update-media-1.0.0-4:/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout/notification_media_cancel_action.xml",
+        "source": "sk.fourq.otaupdate.ota_update-media-1.0.0-4:/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout/notification_template_icon_group.xml",
+        "source": "sk.fourq.otaupdate.ota_update-core-1.6.0-0:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "sk.fourq.otaupdate.ota_update-media-1.0.0-4:/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout/notification_action.xml",
+        "source": "sk.fourq.otaupdate.ota_update-core-1.6.0-0:/layout/notification_action.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout/notification_template_part_time.xml",
+        "source": "sk.fourq.otaupdate.ota_update-core-1.6.0-0:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout/notification_template_big_media.xml",
+        "source": "sk.fourq.otaupdate.ota_update-media-1.0.0-4:/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout/custom_dialog.xml",
+        "source": "sk.fourq.otaupdate.ota_update-core-1.6.0-0:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout/notification_template_big_media_custom.xml",
+        "source": "sk.fourq.otaupdate.ota_update-media-1.0.0-4:/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout/notification_template_part_chronometer.xml",
+        "source": "sk.fourq.otaupdate.ota_update-core-1.6.0-0:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout/notification_action_tombstone.xml",
+        "source": "sk.fourq.otaupdate.ota_update-core-1.6.0-0:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout/notification_template_media_custom.xml",
+        "source": "sk.fourq.otaupdate.ota_update-media-1.0.0-4:/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout/notification_template_lines_media.xml",
+        "source": "sk.fourq.otaupdate.ota_update-media-1.0.0-4:/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout/notification_template_media.xml",
+        "source": "sk.fourq.otaupdate.ota_update-media-1.0.0-4:/layout/notification_template_media.xml"
+    }
+]

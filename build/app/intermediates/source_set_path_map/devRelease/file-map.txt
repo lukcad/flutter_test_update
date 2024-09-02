@@ -1,0 +1,17 @@
+com.example.flutter_test_update.app-core-1.6.0-0 C:\Users\8-268\.gradle\caches\transforms-3\284a410c767ad6c7a2b0ffc8d8d85981\transformed\core-1.6.0\res
+com.example.flutter_test_update.app-jetified-window-java-1.0.0-beta04-1 C:\Users\8-268\.gradle\caches\transforms-3\2a215381204751055df81b6269e717b7\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_test_update.app-jetified-annotation-experimental-1.1.0-2 C:\Users\8-268\.gradle\caches\transforms-3\3d2f03fc996c2e0aa3dee5cfa3002cd1\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_test_update.app-coordinatorlayout-1.0.0-3 C:\Users\8-268\.gradle\caches\transforms-3\5a47ec11e88a4c5989e745f27b201179\transformed\coordinatorlayout-1.0.0\res
+com.example.flutter_test_update.app-media-1.0.0-4 C:\Users\8-268\.gradle\caches\transforms-3\6b0474d987953096ecc6b40e9d5a11d9\transformed\media-1.0.0\res
+com.example.flutter_test_update.app-jetified-window-1.0.0-beta04-5 C:\Users\8-268\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_test_update.app-dev-6 C:\Users\8-268\StudioProjects\flutter_test_update\android\app\src\dev\res
+com.example.flutter_test_update.app-devRelease-7 C:\Users\8-268\StudioProjects\flutter_test_update\android\app\src\devRelease\res
+com.example.flutter_test_update.app-main-8 C:\Users\8-268\StudioProjects\flutter_test_update\android\app\src\main\res
+com.example.flutter_test_update.app-release-9 C:\Users\8-268\StudioProjects\flutter_test_update\android\app\src\release\res
+com.example.flutter_test_update.app-dev-10 C:\Users\8-268\StudioProjects\flutter_test_update\build\app\generated\res\pngs\dev\release
+com.example.flutter_test_update.app-dev-11 C:\Users\8-268\StudioProjects\flutter_test_update\build\app\generated\res\resValues\dev\release
+com.example.flutter_test_update.app-dev-12 C:\Users\8-268\StudioProjects\flutter_test_update\build\app\generated\res\rs\dev\release
+com.example.flutter_test_update.app-mergeDevReleaseResources-13 C:\Users\8-268\StudioProjects\flutter_test_update\build\app\intermediates\incremental\devRelease\mergeDevReleaseResources\merged.dir
+com.example.flutter_test_update.app-mergeDevReleaseResources-14 C:\Users\8-268\StudioProjects\flutter_test_update\build\app\intermediates\incremental\devRelease\mergeDevReleaseResources\stripped.dir
+com.example.flutter_test_update.app-merged_res-15 C:\Users\8-268\StudioProjects\flutter_test_update\build\app\intermediates\merged_res\devRelease
+com.example.flutter_test_update.app-packaged_res-16 C:\Users\8-268\StudioProjects\flutter_test_update\build\ota_update\intermediates\packaged_res\release

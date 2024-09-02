@@ -1,0 +1,54 @@
+<variant
+    name="prodRelease"
+    package="com.example.flutter_test_update"
+    minSdkVersion="21"
+    targetSdkVersion="34"
+    shrinking="true"
+    mergedManifest="C:\Users\8-268\StudioProjects\flutter_test_update\build\app\intermediates\merged_manifest\prodRelease\AndroidManifest.xml"
+    proguardFiles="C:\Users\8-268\StudioProjects\flutter_test_update\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.3.0;D:\ANDROID\flutter\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro;proguard-rules.pro"
+    partialResultsDir="C:\Users\8-268\StudioProjects\flutter_test_update\build\app\intermediates\lint_vital_partial_results\prodRelease\out"
+    desugaredMethodsFiles="C:\Users\8-268\.gradle\caches\transforms-3\d9571a877bfab240140dd1ec74f193c7\transformed\D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifest="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\main\kotlin"
+        resDirectories="src\main\res"
+        assetsDirectories="src\main\assets"/>
+    <sourceProvider
+        manifest="src\prod\AndroidManifest.xml"
+        javaDirectories="src\prod\java;src\prod\kotlin"
+        resDirectories="src\prod\res"
+        assetsDirectories="src\prod\assets"/>
+    <sourceProvider
+        manifest="src\release\AndroidManifest.xml"
+        javaDirectories="src\release\java;src\release\kotlin"
+        resDirectories="src\release\res"
+        assetsDirectories="src\release\assets"/>
+    <sourceProvider
+        manifest="src\prodRelease\AndroidManifest.xml"
+        javaDirectories="src\prodRelease\kotlin;src\prodRelease\java"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <resValues>
+    <resValue
+        type="string"
+        name="app_name"
+        value="flutter_test_name" />
+  </resValues>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <mainArtifact
+      classOutputs="C:\Users\8-268\StudioProjects\flutter_test_update\build\app\intermediates\javac\prodRelease\classes;C:\Users\8-268\StudioProjects\flutter_test_update\build\app\tmp\kotlin-classes\prodRelease;C:\Users\8-268\StudioProjects\flutter_test_update\build\app\kotlinToolingMetadata;C:\Users\8-268\StudioProjects\flutter_test_update\build\app\intermediates\compile_and_runtime_not_namespaced_r_class_jar\prodRelease\R.jar"
+      applicationId="com.example.flutter_test_update"
+      generatedSourceFolders="C:\Users\8-268\StudioProjects\flutter_test_update\build\app\generated\ap_generated_sources\prodRelease\out;C:\Users\8-268\StudioProjects\flutter_test_update\build\app\generated\aidl_source_output_dir\prodRelease\out;C:\Users\8-268\StudioProjects\flutter_test_update\build\app\generated\source\buildConfig\prod\release;C:\Users\8-268\StudioProjects\flutter_test_update\build\app\generated\renderscript_source_output_dir\prodRelease\out"
+      generatedResourceFolders="C:\Users\8-268\StudioProjects\flutter_test_update\build\app\generated\res\rs\prod\release;C:\Users\8-268\StudioProjects\flutter_test_update\build\app\generated\res\resValues\prod\release">
+  </mainArtifact>
+</variant>

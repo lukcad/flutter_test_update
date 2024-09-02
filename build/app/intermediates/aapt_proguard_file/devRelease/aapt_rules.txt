@@ -1,0 +1,4 @@
+-keep class android.app.Application { <init>(); }
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class com.example.flutter_test_update.MainActivity { <init>(); }
+-keep class sk.fourq.otaupdate.OtaUpdateFileProvider { <init>(); }

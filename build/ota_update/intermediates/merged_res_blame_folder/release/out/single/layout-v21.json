@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout-v21/notification_template_custom_big.xml",
+        "source": "sk.fourq.otaupdate.ota_update-core-1.6.0-0:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout-v21/notification_action_tombstone.xml",
+        "source": "sk.fourq.otaupdate.ota_update-core-1.6.0-0:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout-v21/notification_template_icon_group.xml",
+        "source": "sk.fourq.otaupdate.ota_update-core-1.6.0-0:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "sk.fourq.otaupdate.ota_update-merged_res-12:/layout-v21/notification_action.xml",
+        "source": "sk.fourq.otaupdate.ota_update-core-1.6.0-0:/layout-v21/notification_action.xml"
+    }
+]
